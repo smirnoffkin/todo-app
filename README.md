@@ -1,6 +1,8 @@
 # TODO List App
 
-## App for dayli notes 
+## App for daily notes 
+
+### TODO
 
 * Add and configure logger
 * Add more unit-tests for 100% coverage
