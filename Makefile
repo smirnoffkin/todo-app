@@ -9,6 +9,9 @@ dev:
 tidy:
 	go mod tidy
 
+test:
+	go test -v ./tests
+
 build-bin:
 	go build ./cmd/main.go
 
